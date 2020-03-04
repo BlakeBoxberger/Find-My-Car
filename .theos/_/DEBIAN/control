@@ -1,0 +1,10 @@
+Package: com.blakeboxberger.findmycar
+Name: Find My Car
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A better way to find your car in the Maps app.
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
+Version: 0.0.1-37+debug
+Installed-Size: 268
