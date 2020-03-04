@@ -25,7 +25,6 @@
 }
 
 - (void)_getDirections {
-    // Ignore Apple's dumb directions, let's segue to our awesome FindMyParkedCarViewController
     [self presentViewController: self.findMyParkedCarViewController
                        animated: YES
                      completion: nil];
